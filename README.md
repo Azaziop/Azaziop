@@ -7,7 +7,7 @@ Je suis un **développeur passionné** par la création de solutions innovantes 
 * ⚡ Fun fact : J'adore explorer les nouvelles bibliothèques de Machine Learning.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anass-zaoui) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-zaoui-1ab696243/) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@anass-zaoui) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaouiazaziop@gmail.com)
 
